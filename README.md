@@ -1,7 +1,5 @@
 # Hallo, ich bin [Dein Name] 👋
 
-> Ein leidenschaftlicher Tech-Enthusiast mit Fokus auf Daten, Sicherheit und effiziente Lösungen.
-
 ---
 
 ### 🛠️ Mein Tech-Stack
